@@ -8,8 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, WebAppInfo
 
 # BOT TOKENINGIZNI YOZING
 TOKEN = "8607089032:AAFQ2My8FS1FcMpT6F83TlzAlNCKoM2KN3M" 
-# NETLIFY SAYT MANZILINI YOZING
-URL = "https://superb-mandazi-7ac122.netlify.app"
+URL = "https://python-magazin-offe.vercel.app/python%20magazin/index.html"
 
 dp = Dispatcher()
 
