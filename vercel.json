@@ -1,10 +1,8 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "python magazin/main.py",
-      "use": "@vercel/python"
-    }
+  "routes": [
+    { "src": "/", "dest": "/index.html" }
+  ]
+}
   ],
   "routes": [
     {
@@ -13,3 +11,4 @@
     }
   ]
 }
+
