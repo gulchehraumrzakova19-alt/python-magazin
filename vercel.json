@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "python magazin/*.py",
+      "src": "python magazin/main.py",
       "use": "@vercel/python"
     }
   ],
